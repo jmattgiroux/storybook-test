@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "angular": "^1.8.3"
+  },
   "devDependencies": {
     "@nrwl/angular": "^15.8.5",
     "@nrwl/storybook": "^15.8.5",
